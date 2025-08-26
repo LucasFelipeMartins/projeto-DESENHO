@@ -15,7 +15,7 @@ O objetivo foi praticar **JavaScript** e **lógica de programação**, criando u
 
 ## 🖼️ Demonstração  
 
-
+<img src="img/Captura de Tela (42).png" alt="Preview do Projeto" width="500">
 
 🛠️ Tecnologias Utilizadas
 
