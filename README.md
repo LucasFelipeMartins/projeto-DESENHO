@@ -40,7 +40,7 @@ JavaScript → Lógica do desenho e manipulação do canvas
 ▶️ Como executar o projeto
 
 Clone o repositório: 
-git clone https://github.com/LucasFelipeMartins/mini-paint.git
+git clone https://github.com/LucasFelipeMartins/projeto-DESENHO.git
 
 ## 👨‍💻 Autor  
 
